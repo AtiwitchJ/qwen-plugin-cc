@@ -1,0 +1,20 @@
+{
+  "name": "agents-plugin-cc-qwen",
+  "interface": {
+    "displayName": "Qwen Code Plugin"
+  },
+  "plugins": [
+    {
+      "name": "qwen",
+      "source": {
+        "source": "local",
+        "path": "./plugins/qwen"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
