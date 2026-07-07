@@ -1,6 +1,6 @@
-# Qwen Code plugin for Claude Code
+# Qwen Code plugin for Claude Code and Codex
 
-This plugin is for Claude Code users who want to delegate code reviews or tasks to
+This plugin is for Claude Code and Codex users who want to delegate code reviews or tasks to
 Google's Qwen Code CLI ([qwen.google/docs/cli/using](https://qwen.google/docs/cli/using)).
 
 ## What You Get
